@@ -1,5 +1,5 @@
 jobs:
   - name: Basic Example Job
-    path: BGP_check_job.py
+    path: /pyats/job_files/BGP_check_job.py
     job_type: pyats
     description: Basic pyATS job example
