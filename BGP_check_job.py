@@ -1,3 +1,6 @@
+"""
+<PYATS_JOBFILE>
+"""
 # To run the job:
 # pyats run job BGP_check_job.py --testbed-file <testbed_file.yaml>
 # Description: This job file checks that all BGP neighbors are in Established state
